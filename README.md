@@ -2,7 +2,7 @@
 
 
 
-<video width="800" height="450" src="https://github.com/user-attachments/assets/db26dfd9-9c61-49e0-b166-454e455aada6" name = "HI"></video>
+<video width="450" height="450" src="https://github.com/user-attachments/assets/db26dfd9-9c61-49e0-b166-454e455aada6" name = "HI"></video>
 
 
 https://github.com/user-attachments/assets/db26dfd9-9c61-49e0-b166-454e455aada6
