@@ -1,6 +1,14 @@
 # LAME_ATTACK
 
-This a Legend of Zelda Inspired Game. The game itself is not a fully fleshed out game, instead it consists of a series of features that can be used in the creation of a full game. Primarily, it is lacking a story line. Below are the primary features showcased in this project.
+This a Legend of Zelda Inspired Game. The game itself is not a fully fleshed out game, instead it consists of a series of features that can be used in the creation of a full game. Primarily, it is lacking a story line. 
+
+Here is a description of each file contained within this project outside of existing libraries used:
+GameFunctions: Contains the functions used in the game loop including collision detection, input response, game initialization
+
+
+
+
+Below are the primary features showcased in this project.
  
 
 
