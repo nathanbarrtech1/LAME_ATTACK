@@ -1,7 +1,7 @@
 # LAME_ATTACK
 
-
-
+This a Legend of Zelda Inspired Game. The game itself is not a fully fleshed out game, instead it consists of a series of features that can be used in the creation of a full game. Primarily, it is lacking a story line. Below are the primary features showcased in this project.
+ 
 
 
 
