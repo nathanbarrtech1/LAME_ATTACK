@@ -1,9 +1,11 @@
 # LAME_ATTACK
 
 
-https://github.com/user-attachments/assets/fa38250c-ed19-4315-b03c-9e23020f6163
+
+
+https://github.com/user-attachments/assets/4b0f1c6d-0d55-4449-8b67-cbb17c516fd5
 
 
 
-https://github.com/user-attachments/assets/3695a514-f331-4e55-b76d-df225f7d059a
+https://github.com/user-attachments/assets/784ee656-5a34-43a0-9f1b-5ffad41df233
 
