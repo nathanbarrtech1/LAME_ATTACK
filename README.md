@@ -1,6 +1,6 @@
 # LAME_ATTACK
 
-<img src="https://github.com/user-attachments/assets/db26dfd9-9c61-49e0-b166-454e455aada6" width=50% height=100%>
+<img src="https://github.com/user-attachments/assets/db26dfd9-9c61-49e0-b166-454e455aada6" width=100% height=100%>
 
 
 
