@@ -19,7 +19,7 @@ Main: Where the game loop exists
 
 
 
-Below are the primary features showcased in this project.
+###Below are the primary features showcased in this project.
  
 https://github.com/user-attachments/assets/e0d04137-2c25-4daf-8cfb-f926055dfb13
 
