@@ -1,8 +1,13 @@
 # LAME_ATTACK
 
+resizeEmbed
+===========
 
+resize embedded objects: video, iframe, flash
 
-<video width="450" height="450" src="https://github.com/user-attachments/assets/db26dfd9-9c61-49e0-b166-454e455aada6" name = "HI"></video>
+```js
+$(".box-video iframe").resizeEmbed();
+```
 
 
 https://github.com/user-attachments/assets/db26dfd9-9c61-49e0-b166-454e455aada6
