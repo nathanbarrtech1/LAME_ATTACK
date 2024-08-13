@@ -1,8 +1,5 @@
 # LAME_ATTACK
 
 
+https://github.com/user-attachments/assets/fa38250c-ed19-4315-b03c-9e23020f6163
 
-[![Watch the video](https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg)](https://www.youtube.com/embed/APOPm01BVrk)
-
-[<img src="https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/APOPm01BVrk)
