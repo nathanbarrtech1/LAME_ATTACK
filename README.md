@@ -1,9 +1,7 @@
 # LAME_ATTACK
 
-<img src="https://github.com/user-attachments/assets/db26dfd9-9c61-49e0-b166-454e455aada6" width=100% height=100%>
-
-<img src="![mazePic](https://github.com/user-attachments/assets/8f9134e0-5ad9-4570-a04d-5025a8a714db)](https://github.com/user-attachments/assets/db26dfd9-9c61-49e0-b166-454e455aada6)" width="150" height="280">
-
+<img src="![mazePic](https://github.com/user-attachments/assets/8f9134e0-5ad9-4570-a04d-5025a8a714db)]" width="150" height="280">
+https://github.com/user-attachments/assets/db26dfd9-9c61-49e0-b166-454e455aada6
 
 
 
